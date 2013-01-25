@@ -13,7 +13,6 @@
 
 /**
  * Root directory of Drupal installation.
- * Hello I'm here...'
  */
 define('DRUPAL_ROOT', getcwd());
 
